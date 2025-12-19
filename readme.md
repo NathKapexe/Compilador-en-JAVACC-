@@ -1,3 +1,6 @@
+#Logica del programa
+
+
 🔹 Bloque de opciones de JavaCC
 
 ```bash
