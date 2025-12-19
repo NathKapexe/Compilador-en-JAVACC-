@@ -1,4 +1,4 @@
-# Logica del programa
+# Logica del programa 
 
 
 🔹 Bloque de opciones de JavaCC
